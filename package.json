@@ -1,0 +1,26 @@
+{
+  "name": "competitive-exam-tracker",
+  "version": "1.0.0",
+  "description": "Full-stack Competitive Exam Tracker web application — React.js, TypeScript, Node.js, Express.js, MongoDB",
+  "scripts": {
+    "install-all": "npm install && npm install --prefix server && npm install --prefix client",
+    "server": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "dev": "concurrently -n \"SERVER,CLIENT\" -c \"blue,green\" \"npm run server\" \"npm run client\"",
+    "build": "npm run build --prefix server && npm run build --prefix client",
+    "start": "npm run start --prefix server"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "keywords": [
+    "exam-tracker",
+    "react",
+    "typescript",
+    "express",
+    "mongodb",
+    "competitive-exams"
+  ],
+  "author": "",
+  "license": "ISC"
+}
