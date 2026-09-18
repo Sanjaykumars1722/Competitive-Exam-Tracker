@@ -1,7 +1,21 @@
 # Competitive Exam Tracker 🎯
 **Full-Stack Web Application — React.js, TypeScript, Node.js, Express.js, MongoDB**
 
+[![React](https://img.shields.io/badge/React-18-blue.svg)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-20+-green.svg)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-4.21-lightgrey.svg)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-brightgreen.svg)](https://www.mongodb.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC.svg)](https://tailwindcss.com/)
+[![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
+
 A high-performance, full-stack web application designed for competitive exam aspirants (e.g. UPSC CSE, JEE Advanced/Main, GATE, CAT, NEET, State PSCs) to track preparation milestones, manage comprehensive syllabi, schedule study sessions, organize resources (PYQs, formula sheets, notes), and analyze mock test score trajectories.
+
+---
+
+## 🌐 Live Demo & Repository
+- **GitHub Repository**: [https://github.com/Sanjaykumars1722/Competitive-Exam-Tracker](https://github.com/Sanjaykumars1722/Competitive-Exam-Tracker)
+- **Live Demo App**: *(Deploying on Render / Vercel — paste your live URL here)*
 
 ---
 
