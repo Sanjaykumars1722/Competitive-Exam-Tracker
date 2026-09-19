@@ -13,9 +13,17 @@ A high-performance, full-stack web application designed for competitive exam asp
 
 ---
 
-## 🌐 Live Demo & Repository
-- **GitHub Repository**: [https://github.com/Sanjaykumars1722/Competitive-Exam-Tracker](https://github.com/Sanjaykumars1722/Competitive-Exam-Tracker)
-- **Live Demo App**: *(Deploying on Render / Vercel — paste your live URL here)*
+## 🚀 Quick Access Links (Click to Open & Use)
+
+| Link | Device / Purpose | Instructions |
+| :--- | :--- | :--- |
+| 💻 **[Open App on PC / Laptop](http://localhost:5173/login)** | Local Computer | Click link directly *(Run `start-project.bat` first if not running)* |
+| 📱 **[Open App on Mobile Phone](http://192.168.137.34:5173/login)** | Phone (Same Wi-Fi) | Open link in phone's browser when on same Wi-Fi |
+| 🛠️ **[Backend API Status](http://localhost:5000/api/health)** | Express API Health | Verify server is active and responding |
+| ⚡ **Instant Start**: | Run Anytime | Double-click `start-project.bat` in the project folder |
+
+> [!TIP]
+> **⚡ Instant Demo Login**: On the login page, simply click **`⚡ 1-Click Demo Login`** to immediately explore pre-loaded UPSC, JEE, and GATE exams, syllabus progress bars, Pomodoro focus timer, and mock test charts without creating an account!
 
 ---
 
